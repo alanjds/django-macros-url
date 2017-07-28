@@ -2,7 +2,7 @@ import re
 import warnings
 from distutils.version import StrictVersion
 
-VERSION = (0, 3, 0)
+VERSION = (0, 3, 1)
 DJANGO_VERSION = None
 
 _macros_library = {
